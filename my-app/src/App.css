@@ -1,0 +1,13 @@
+.child {
+  /* Center vertically */
+  position: absolute;
+  top: 50%;
+  margin-top: -25px; /* Half this element's height */
+}
+.btn-custom {
+  padding: 10px;
+  font-size: 20px;
+}
+.background {
+  background-image: url("images/david-clode-xNSCi_K179c-unsplash.jpg");
+}

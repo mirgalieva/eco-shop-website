@@ -1,0 +1,259 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "product": "",
+      "price": "",
+      "description": "",
+      "id": 2
+    },
+    {
+      "product": "",
+      "price": "",
+      "description": "",
+      "id": 3
+    },
+    {
+      "product": "",
+      "price": "",
+      "description": "",
+      "id": 4
+    },
+    {
+      "product": "",
+      "price": "",
+      "description": "",
+      "id": 5
+    },
+    {
+      "product": "",
+      "price": "",
+      "description": "",
+      "id": 6
+    },
+    {
+      "price": "",
+      "product": "",
+      "description": "",
+      "id": 7
+    },
+    {
+      "price": "",
+      "product": "",
+      "description": "",
+      "id": 8
+    },
+    {
+      "price": "",
+      "product": "",
+      "description": "",
+      "id": 9
+    },
+    {
+      "price": "300",
+      "product": "afmal;m;",
+      "id": 10
+    },
+    {
+      "price": "300",
+      "product": "afmal;m;",
+      "id": 11
+    },
+    {
+      "price": "300",
+      "product": "afmal;m;",
+      "id": 12
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 13
+    },
+    {
+      "price": "",
+      "product": "",
+      "description": "",
+      "id": 14
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 15
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 16
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 17
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 18
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 19
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 20
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 21
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 22
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 23
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 24
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 25
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 26
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 27
+    },
+    {
+      "price": "",
+      "product": "produc",
+      "description": "",
+      "id": 28
+    },
+    {
+      "price": "",
+      "product": "produc",
+      "description": "",
+      "id": 29
+    },
+    {
+      "price": "",
+      "product": "produc",
+      "description": "",
+      "id": 30
+    },
+    {
+      "price": "",
+      "product": " khkbkhbk",
+      "description": "",
+      "id": 31
+    },
+    {
+      "price": "",
+      "product": " khkbkhbk",
+      "description": "",
+      "id": 32
+    },
+    {
+      "price": "",
+      "product": " khkbkhbk",
+      "description": "",
+      "id": 33
+    },
+    {
+      "price": "",
+      "product": " khkbkhbk",
+      "description": "",
+      "id": 34
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "description": "vdaknal",
+      "id": 35
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "description": "j",
+      "id": 36
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "description": "j",
+      "id": 37
+    },
+    {
+      "price": "J",
+      "product": "M",
+      "description": "G",
+      "id": 38
+    },
+    {
+      "price": "0",
+      "product": "s",
+      "description": "",
+      "id": 39
+    },
+    {
+      "price": "300",
+      "product": "dknlksvnk",
+      "description": "dnlksnl",
+      "id": 40
+    },
+    {
+      "price": "300",
+      "product": "dknlksvnk",
+      "description": "dnlksnl",
+      "id": 41
+    },
+    {
+      "price": "300",
+      "product": "dknlksvnk",
+      "description": "dnlksnl",
+      "id": 42
+    },
+    {
+      "price": "",
+      "product": "",
+      "description": "",
+      "id": 43
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "some comment",
+      "password": 1
+    },
+    {
+      "email": "mirgaliea.alsu@gmail.com",
+      "password": "afml;masl;m",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

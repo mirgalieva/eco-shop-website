@@ -1,0 +1,15 @@
+.background-color-custom {
+  background-color: rgba(41, 96, 52, 0.86);
+}
+.child {
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+}
+.btn-custom {
+  padding: 10px;
+  font-size: 20px;
+}
+.card:hover {
+  background: rgba(0, 0, 0, 0.1);
+}

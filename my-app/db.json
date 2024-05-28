@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "product": "json-server",
+      "price": "typicode",
+      "description": "Amazing!"
+    },
+    {
+      "product": "nldvlkslvns",
+      "price": "300",
+      "description": "acvklnvdl",
+      "id": 2
+    },
+    {
+      "product": "nldvlkslvns",
+      "price": "300",
+      "description": "acvklnvdl",
+      "id": 3
+    },
+    {
+      "product": "csalnlk",
+      "price": "300",
+      "description": "vdalknvld",
+      "id": 4
+    },
+    {
+      "product": "csalnlk",
+      "price": "300",
+      "description": "vdalknvld",
+      "id": 5
+    },
+    {
+      "product": "csalnlk",
+      "price": "300",
+      "description": "vdalknvld",
+      "id": 6
+    },
+    {
+      "product": "csalnlk",
+      "price": "300",
+      "description": "vdalknvld",
+      "id": 7
+    },
+    {
+      "product": "cvkanlavnl",
+      "price": "300",
+      "description": "vsdklnvsdlk",
+      "id": 8
+    },
+    {
+      "product": "cvkanlavnl",
+      "price": "300",
+      "description": "vsdklnvsdlk",
+      "id": 9
+    },
+    {
+      "product": "cvkanlavnl",
+      "price": "300",
+      "description": "vsdklnvsdlk",
+      "id": 10
+    },
+    {
+      "product": "zvklnsvdlk",
+      "price": "300",
+      "description": "avnvadnl",
+      "id": 11
+    },
+    {
+      "product": "zvklnsvdlk",
+      "price": "300",
+      "description": "avnvadnl",
+      "id": 12
+    },
+    {
+      "product": "zvklnsvdlk",
+      "price": "300",
+      "description": "avnvadnl",
+      "id": 13
+    },
+    {
+      "product": "zvklnsvdlk",
+      "price": "300",
+      "description": "avnvadnl",
+      "id": 14
+    },
+    {
+      "product": "fksnlsnlk",
+      "price": "300",
+      "description": "vdaknal",
+      "id": 15
+    },
+    {
+      "price": "300",
+      "product": "sm;ms;m;",
+      "id": 16
+    },
+    {
+      "price": "300",
+      "product": "vjbgranl;rimzvskdnl;fnj;dgnz;jgnkdgnrlksmlacl;z,'c",
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "some comment",
+      "password": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

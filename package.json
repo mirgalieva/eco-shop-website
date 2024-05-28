@@ -1,0 +1,15 @@
+{
+  "name": "mirgalievaal-project",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.atp-fivt.org/fullstack2023a/mirgalievaal-project.git"
+  },
+  "author": "ALsu Mirgalieva",
+  "license": "ISC"
+}

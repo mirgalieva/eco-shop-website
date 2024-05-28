@@ -1,0 +1,39 @@
+.btn-custom {
+  padding: 10px;
+  font-size: 20px;
+  background-color: #05340f;
+  margin-top: 10;
+}
+
+.background-color-custom {
+  background-color: "#05340f";
+}
+
+.form-custom {
+  height: 100px;
+  scroll-margin-left: 5px;
+  margin-right: 5px;
+}
+
+.placeholder-custom {
+  height: 100px;
+  scroll-margin-left: 5px;
+  margin-right: 5px;
+}
+
+.add-btn {
+  height: 100px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  background-color: #05340f !important;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.container-custom {
+  margin-top: 20%;
+  margin-bottom: 10%;
+}

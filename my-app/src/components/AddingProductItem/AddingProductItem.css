@@ -1,0 +1,15 @@
+.card-custom {
+  width: 18rem;
+  height: 33rem;
+  margin-top: 3rem;
+  margin-left: 1.5rem;
+}
+
+.image-custom {
+  height: 287px;
+  width: 287px;
+}
+.btn-price {
+  background-color: #05340f !important;
+  margin-bottom: 5px;
+}

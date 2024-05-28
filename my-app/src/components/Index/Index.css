@@ -1,0 +1,18 @@
+.child {
+  position: absolute !important;
+  top: 50% !important;
+  margin-top: -25px !important;
+}
+.title-custom {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 128px;
+}
+.btn-custom {
+  width: 250px;
+  margin-left: 50px;
+}
+.background-custom {
+  background-image: url("../../images/david-clode-xNSCi_K179c-unsplash.jpg") !important;
+  height: 100% !important;
+  width: 100% !important;
+}
